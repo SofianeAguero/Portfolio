@@ -1,0 +1,1 @@
+<?php $bdd = new PDO('mysql:host=mysql-lyceestvincent.alwaysdata.net;dbname=lyceestvincent_sazi;charset=utf8', '116313_sazi', 'motdepasse'); ?>

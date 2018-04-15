@@ -1,0 +1,250 @@
+body {
+	margin: 0px;
+	background-color: #E3E3E3;
+}
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0px;
+}
+
+
+/** HEADER MENU **/
+.header-top {
+	padding-top: 10px;
+	width: 100%;
+	background-color: #FFF;
+	height: 120px;
+	display: block;
+}
+
+.header-top > img {
+	height: 100px;
+	margin: 0 auto;
+	display: block;
+}
+
+.header {
+	display: block;
+	width: 100%;
+	background-color: #343434;
+	color: #FFF;
+	height: 40px;
+}
+
+.header .logo {
+	width: 185px;
+	float:left;
+}
+
+.header .logo > h1 {
+	color: rgba(255, 156, 35, 0.68);
+	text-transform: capitalize;
+	margin: 8px 0;
+	font-size: 18px;
+}
+
+.header .main-menu, .main-menu-right {
+	display: inline-block;
+	margin: 0;
+}
+
+.header .main-menu-right {
+	float: right;
+}
+
+.header .main-menu li, .header .main-menu-right li {
+	display: inline-block;
+	padding: 10px 15px;
+	position: relative;
+}
+
+.header .main-menu li a, .main-menu-right a {
+	color: #FFF;
+	text-decoration: none;
+	display: block;
+}
+
+.header .main-menu li a.active, .main-menu-right li a.active {
+	color: #ff9c23;
+	/**text-decoration: underline;**/
+}
+
+.header .main-menu li a:hover, .main-menu-right li a:hover {
+	color: #cecbcb;
+	/**text-decoration: underline;**/
+}
+
+.header .main-menu-right {
+	position: relative;
+}
+.header .main-menu-right li ul {
+   	display: none;
+	position: absolute;
+	padding: 2px 5px;
+	background-color: #343434;
+	top: 2em;
+	left: -4px;
+	font-size: 14px;
+	width: 120px;
+	text-align: center;
+	z-index: 1000;
+}
+
+.header .main-menu-right li:hover ul {
+	display: block;
+}
+
+
+/** Content **/
+#content {
+	background-color: #FFF;
+	min-height: 500px;
+	color: #3a3a3a;
+	display: block;
+	padding: 15px;
+	padding-top: 50px;
+}
+
+#content h2 {
+	color: #c97e28;
+	text-align: ;
+}
+#content h3 {
+	text-align: ;
+	margin-bottom: 30px;
+	color: #c97e28;
+}
+.titreconnect{
+	color: #c97e28;
+}
+form
+{
+	text-align: ;
+}
+#content .left {
+	float: right;
+	display: inline-block;
+	width: 1100px;
+}
+
+#content .right {
+	float: right;
+	width: 400px;
+	margin-left: 40px;
+}
+#titreaccueil
+{
+	text-align: center;
+}
+
+/** Link **/
+
+#content .read-more {
+	margin-top: 10px;
+	float: right;
+	color: #ff9c23;
+	text-decoration: none;
+}
+
+#content .read-more:hover {
+	text-decoration: underline;
+}
+
+#content .read-more:after {
+	content: ' \21FE';
+}
+
+/** Table **/
+#content table {
+	margin-top: 20px;
+}
+
+#content table thead tr {
+    display: table-row;
+    color: #7f7b7b;
+}
+
+#content table thead tr th {
+	text-align: left;
+	border-bottom: 2px solid #ccc;
+}
+
+#content table tbody tr:nth-of-type(odd) {
+	background-color: #f2f2f2;
+}
+
+tbody tr:hover
+{
+	background-color: orange;
+}
+.inpconnect
+{
+	margin-bottom: 20px;
+	width: 150px;
+}
+/** MENU GAUCHE **/
+.menugauche
+{
+	list-style: none;
+	list-style-type: none;
+	text-align: center;
+	float: left;
+	margin-top: 10px;
+	background-color: #343434;
+	color: white;
+	padding: 10px 40px 0px 40px;
+	border: 2px solid black;
+}
+.menugauche li
+{
+	margin-bottom: 20px;
+}
+.rightcont
+{
+	margin-left: 250px;
+	margin-top: 20px;
+}
+.actived
+{
+	color: rgba(255, 156, 35, 0.68);
+}
+.rightentreprise
+{
+	padding-top: 52px;
+}
+.traitvertical
+{
+	position: absolute;
+	border-left: 1px solid black;
+    padding-left: 5px;
+    margin-left: 400px;
+    margin-top: 20px;
+    height: 230px;
+}
+.btnentreprise1
+{
+	margin-left: 150px;
+}
+.selectentreprise1
+{
+	width: 100px;
+}
+.inputentreprise
+{
+	margin-left: 50px;
+	width: 50%;
+}
+.inputentreprise2
+{
+	margin-left: 200px;
+}
+.typebac, .tableaubac 
+{
+	text-align: center;
+	margin: auto;
+}
