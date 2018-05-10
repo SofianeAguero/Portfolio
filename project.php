@@ -60,7 +60,7 @@
                                     <ul>
                                      	<li><span class="dark-text"><b>Technologies:</b> </span> HTML5, CSS3</li>
                                         <li><span class="dark-text"><b>Date:</b> </span> Fevrier 2017</li>
-                                        <li><span class="dark-text"><b>Lien: </b> </span><a href="agence/index.html" target="_blank">Cliquez-ici</a></li>
+                                        <li><span class="dark-text"><b>Lien: </b> </span><a href="projet/agence/index.html" target="_blank">Cliquez-ici</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -81,8 +81,8 @@
                                     <ul>
                                         <li><span class="dark-text"><b>Technologies:</b> </span> HTML5, CSS3, PHP, SQL</li>
                                         <li><span class="dark-text"><b>Date:</b> Avril 2017 à Mai 2017</li>
-                                        <li><span class="dark-text"><b>Lien:</b><a href="http://sazi.lyceestvincent.fr/stage/index.php" target="_blank"> Cliquez-ici</a></li>
-                                         <li><span class="dark-text"><b>Guide: </b><a href="http://sazi.lyceestvincent.fr/guide.pdf" target="_blank"> Cliquez-ici</a></li>
+                                        <li><span class="dark-text"><b>Lien:</b><a href="projet/stage/index.php" target="_blank"> Cliquez-ici</a></li>
+                                         <li><span class="dark-text"><b>Guide: </b><a href="document/guide.pdf" target="_blank"> Cliquez-ici</a></li>
                                     </ul>
                                 </div>
                             </div>
