@@ -1,5 +1,3 @@
-<?php include 'lib/db.php' ;?>
-<!-- <?php //include 'lib/auth.php' ;?> -->
 <?php include 'partials/header.php' ;?>
         <!-- =========================================
                         ABOUT   
