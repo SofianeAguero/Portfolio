@@ -57,8 +57,8 @@
             <div class="container">
                 <div class="row">
                     <div class="top-contact col m12 s12 right">
-                        <span><i class="fa fa-envelope"></i> <a href="mailto:">azi.sofiane@hotmail.fr</a></span>
-                        <span><i class="fa fa-phone"></i> <a href="tel:">06 51 74 85 02</a></span> 
+                        <span><i class="fa fa-envelope"></i> <a href="mailto:">xxxxxx@hotmail.fr</a></span>
+                        <span><i class="fa fa-phone"></i> <a href="tel:">06 66 66 66 66</a></span> 
                     </div>  
                 </div>
             </div>
